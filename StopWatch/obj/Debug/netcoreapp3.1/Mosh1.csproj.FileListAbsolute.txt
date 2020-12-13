@@ -1,0 +1,13 @@
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\bin\Debug\netcoreapp3.1\Mosh1.exe
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\bin\Debug\netcoreapp3.1\Mosh1.deps.json
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\bin\Debug\netcoreapp3.1\Mosh1.runtimeconfig.json
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\bin\Debug\netcoreapp3.1\Mosh1.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\bin\Debug\netcoreapp3.1\Mosh1.dll
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\bin\Debug\netcoreapp3.1\Mosh1.pdb
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\obj\Debug\netcoreapp3.1\Mosh1.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\obj\Debug\netcoreapp3.1\Mosh1.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\obj\Debug\netcoreapp3.1\Mosh1.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\obj\Debug\netcoreapp3.1\Mosh1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\obj\Debug\netcoreapp3.1\Mosh1.dll
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\obj\Debug\netcoreapp3.1\Mosh1.pdb
+C:\Users\kevin\Desktop\Repo\Mosh1\Mosh1\obj\Debug\netcoreapp3.1\Mosh1.genruntimeconfig.cache
